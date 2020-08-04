@@ -1,2 +1,2 @@
-# eCommerceApp
+# eCommerceApp (deprecated)
 mobile app
